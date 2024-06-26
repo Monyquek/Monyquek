@@ -6,4 +6,4 @@ Sou estudante do ensino médio.
 
 Estou aprendendo a utilizar as ferramentas do Github e JavaScript.
 
-🖤
+💚
